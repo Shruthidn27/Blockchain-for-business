@@ -67,9 +67,10 @@ authrpc.port 8546 --networkid { NETWORK_ID } --unlock { ADDRESS_NODE2 } --passwo
 17.Click on file and under contract, create new file named “New.sol”
 18.Save the file and go to deploy tab and click deploy.
 19.Node1 has deployed and added to blockchain.
-5
-PROGRAM
-#Genesis file privateblock.json
+```
+# PROGRAM
+# Genesis file privateblock.json
+```
 {
 "config" {
 "chainId" 878787,
